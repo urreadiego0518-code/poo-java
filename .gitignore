@@ -1,0 +1,32 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+!.mvn/wrapper/maven-wrapper.jar
+.flattened-pom.xml
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/private/
+
+# NetBeans
+nbproject/
+
+# Eclipse
+bin/
+
+# Archivos generados por los ejemplos
+miArchivo.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
